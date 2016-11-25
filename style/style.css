@@ -2,3 +2,15 @@
   .btn:nth-child(3) {
     margin-left: 5px;
   }
+
+.container {
+  margin: 3% auto;  
+}
+
+.thumb {
+  border-radius: 2px;
+  margin-left: 15px;
+  width: 50px;
+}
+
+.table td { vertical-align: middle !important; }
