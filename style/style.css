@@ -1,0 +1,4 @@
+.btn { margin: 5px 0 }
+  .btn:nth-child(3) {
+    margin-left: 5px;
+  }
