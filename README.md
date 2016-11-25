@@ -1,4 +1,4 @@
-## Camper Leaderboard
+## Campers Leaderboard
 
 Objective: Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/eZGMjp/.
 
@@ -24,8 +24,9 @@ Objective: Build an app that is functionally similar to this: https://codepen.io
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 
-	> git clone git@github.com:lorraineS/FCC-CampersLeaderboard.git
+	> git clone git@github.com:lorraineS/FCC-CampersLeaderBoard.git
 	> cd FCC-Leaderboard
 	> npm install
+  > npm start
 
 Go to localhost:8080 and enjoy!
